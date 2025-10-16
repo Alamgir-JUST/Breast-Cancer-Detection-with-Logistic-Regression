@@ -30,4 +30,10 @@ ROC-AUC of 0.997 → Excellent separability between malignant and benign classes
 <p align="center"> <img src="https://github.com/Alamgir-JUST/Breast-Cancer-Detection-with-Logistic-Regression/blob/b373ed356771083850840767b43c6c0c88e7d8e7/ROC%20Curve.png"/> </p>
 
 
+🔍 Cost Function Convergence Over Iterations
+
+<p align="center"> <img src="https://github.com/Alamgir-JUST/Breast-Cancer-Detection-with-Logistic-Regression/blob/c6fb738ca39f9cb65caff09d71d568433ec93772/Convergence.png"/> </p>
+
+
+
 These results demonstrate that a well-regularized Logistic Regression model can perform extremely well on structured biomedical data when paired with proper preprocessing and scaling.
