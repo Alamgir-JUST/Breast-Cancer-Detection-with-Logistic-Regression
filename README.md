@@ -34,6 +34,14 @@ ROC-AUC of 0.997 → Excellent separability between malignant and benign classes
 
 <p align="center"> <img src="https://github.com/Alamgir-JUST/Breast-Cancer-Detection-with-Logistic-Regression/blob/c6fb738ca39f9cb65caff09d71d568433ec93772/Convergence.png"/> </p>
 
+🔍 LIME (Local Interpretable Model-Agnostic Explanations)
+
+<p align="center"> <img src="https://github.com/Alamgir-JUST/Breast-Cancer-Detection-with-Logistic-Regression/blob/16d82ae4d7db34b8bfdc814dbd1cab1396af9bc9/LIME.png"/> </p>
+
+
+🔍 Explain a single instance with SHAP
+
+<p align="center"> <img src="https://github.com/Alamgir-JUST/Breast-Cancer-Detection-with-Logistic-Regression/blob/16d82ae4d7db34b8bfdc814dbd1cab1396af9bc9/Single%20Instance.png"/> </p>
 
 
 These results demonstrate that a well-regularized Logistic Regression model can perform extremely well on structured biomedical data when paired with proper preprocessing and scaling.
