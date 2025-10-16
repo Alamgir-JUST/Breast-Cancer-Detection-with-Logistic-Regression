@@ -9,8 +9,11 @@ Precision	0.9762
 Recall	0.9535
 F1-Score	0.9647
 ROC-AUC	0.9974
+
+
 🔍 Confusion Matrix
-<p align="center"> <img src="bcbad9a5-b658-42ee-909c-ed8af6413035.png" width="500"/> </p>
+
+<p align="center"> <img src="https://github.com/Alamgir-JUST/Breast-Cancer-Detection-with-Logistic-Regression/blob/a128624d0fccba6d62a05e77fdfd309ed1dd5864/CM.png"/> </p>
 
 The confusion matrix above shows strong predictive power, with only 3 total misclassifications (1 false positive and 2 false negatives) out of the test samples.
 
