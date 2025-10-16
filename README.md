@@ -45,3 +45,10 @@ ROC-AUC of 0.997 → Excellent separability between malignant and benign classes
 
 
 These results demonstrate that a well-regularized Logistic Regression model can perform extremely well on structured biomedical data when paired with proper preprocessing and scaling.
+
+
+Thank you very much, 
+Md. Alamgir Hossain
+MSc in ICT, IICT, BUET; BSc in CSE, JUST. 
+Director, Skill Morph Research Lab., Skill Morph, Dhaka, Bangladesh
+Mail: alamgir.cse14.just@gmail.com
